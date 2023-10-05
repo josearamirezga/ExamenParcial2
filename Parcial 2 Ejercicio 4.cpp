@@ -28,5 +28,5 @@ int main(){
 	V2 = AUX;
 	
 	printf("\nEl nuevo orden es: \nV1 = %d,\nV2 = %d,\nV3 = %d", V1, V2, V3);
-	
+	return 0;
 }
